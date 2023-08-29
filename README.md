@@ -1,5 +1,5 @@
 # s21_decimal
-Implementation of s21_decimal.h library.
+Implementation of decimal.h library.
 <br>team s21: desperos, sallieam, fartlouv, jeannakr
 
 Makefile:
